@@ -1,3 +1,7 @@
+This file is modified from "FuckEWT360" by "493505110"
+Modifications made by [Realcyc0916] in 2025.
+
+
 ## antiewt360
 升学e网通自动化刷课脚本
 
@@ -31,3 +35,4 @@ chrome_options.binary_location = "C:/example.exe"
 
 如果学校在网课平台中有提供试卷提交
 请先提交完所有的作业再运行此程序
+
