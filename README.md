@@ -1,10 +1,4 @@
-This file is modified from "FuckEWT360" by "493505110"
-
-Modifications made by [Realcyc0916] in 2025.
-
-
-### 2025/07/11 
-#### 由于ewt界面更新等原因，本项目已暂停维护。
+### 歡迎各位大佬Fork
 
 ## antiewt360
 升学e网通自动化刷课脚本
